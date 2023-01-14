@@ -1,11 +1,11 @@
 const $boton = document.querySelector(".btn")
 const $chiste = document.querySelector(".chiste")
-
+//Web rapid api introduces key --- Not key -- not works --- you should introduces your personal key and the program run it.
 
 const options = {
     method: "GET",
     headers:{
-        "X-Api-Key":"x",
+ //       "X-Api-Key" introduces de key here:,
     },
 };
 
