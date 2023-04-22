@@ -11,7 +11,6 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to right top, #aba5ab, #a2afd9, #24c9fb, #00e0dd, #12eb7e);
     color: white;
 }
 .title{
